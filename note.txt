@@ -1,0 +1,2 @@
+check khả năng tồn tại của biến 
+1 số sp chưa lấy được ảnh ?? -> 50 % ok - > testing
